@@ -27,7 +27,6 @@ namespace CSharpPerformance
 
             watch.Stop();
             Console.WriteLine(watch.Elapsed);
-            Console.ReadLine();
         }
     }
 }
